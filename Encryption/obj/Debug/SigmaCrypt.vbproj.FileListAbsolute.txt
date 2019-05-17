@@ -1,0 +1,22 @@
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\bin\Debug\SigmaCrypt.exe.config
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\bin\Debug\SigmaCrypt.exe
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\bin\Debug\SigmaCrypt.pdb
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\bin\Debug\SigmaCrypt.xml
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.Form1.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.Resources.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.vbproj.GenerateResource.Cache
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.exe
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.xml
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.pdb
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.vbprojResolveAssemblyReference.cache
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\bin\Debug\SigmaCrypt.exe.config
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\obj\Debug\SigmaCrypt.exe
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\obj\Debug\SigmaCrypt.xml
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\obj\Debug\SigmaCrypt.pdb
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\bin\Debug\SigmaCrypt.exe
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\bin\Debug\SigmaCrypt.pdb
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\bin\Debug\SigmaCrypt.xml
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\obj\Debug\SigmaCrypt.vbprojResolveAssemblyReference.cache
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\obj\Debug\SigmaCrypt.Form1.resources
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\obj\Debug\SigmaCrypt.Resources.resources
+C:\Users\Mihhail\Programming\Visual Studio 2013\Visual Basic\Encryption\Encryption\obj\Debug\SigmaCrypt.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\bin\Debug\SigmaCrypt.exe.config
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\bin\Debug\SigmaCrypt.exe
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\bin\Debug\SigmaCrypt.pdb
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\bin\Debug\SigmaCrypt.xml
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.Resources.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.vbproj.GenerateResource.Cache
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.exe
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.xml
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Encryption\Encryption\obj\Debug\SigmaCrypt.pdb
